@@ -6,7 +6,3 @@ print(5)
 time.sleep(1)
 print("oh, no")
 print(2+2)
-time.sleep(1)
-
-import time
-
