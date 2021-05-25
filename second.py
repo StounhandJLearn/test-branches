@@ -1,6 +1,6 @@
 import time
 
-print("2+2=")
+print("2+2=?")
 time.sleep(1)
 print("hmmmm")
 time.sleep(1)
