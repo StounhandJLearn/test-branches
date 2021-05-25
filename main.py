@@ -9,3 +9,5 @@ print("World")
 time.sleep(1)
 
 print("bye ;)")
+
+time.sleep(1)
